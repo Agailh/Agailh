@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agailh
 - 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Reactjs
 
 
 <!---
